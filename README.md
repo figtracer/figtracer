@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a self-taught builder and aspiring auditor from Portugal. I’m passionate about **systems programming**, **blockchain development**, and **decentralization**. I enjoy diving into system internals, crafting tools, and contributing to open-source and blockchain ecosystems. Right now, I’m working on BountyPool: a decentralized platform to encourage open-source software development.
+I'm a self-taught builder and aspiring auditor from Portugal. I’m passionate about **systems programming**, **blockchain development**, and **decentralization**. I enjoy diving into system internals, crafting tools, and contributing to open-source and blockchain ecosystems.
 
 ## Blog  
 I write about blockchain, systems programming, and my learning journey on my [website](https://figtracer.com). 
