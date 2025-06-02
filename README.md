@@ -8,8 +8,8 @@ I write about blockchain, systems programming, and my learning journey on my [we
 
 ## Experience
 
-- **Hacker, ETHGlobal Prague, 2025** *(Upcoming)* 
-- **Volunteer, ETHPrague Conf, 2025** *(Upcoming)* 
+- **Hacker, ETHGlobal Prague, 2025** -- Won blockscout + 1inch prizes
+- **Volunteer, ETHPrague Conf, 2025**
 - **Crew Member, NDC Porto, 2024**  
 - **Co-Organizer, Polygon Porto, 2023**  
 
