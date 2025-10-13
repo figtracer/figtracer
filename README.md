@@ -1,14 +1,14 @@
-# Hi there! 👋
+# Hey! I'm Gustavo (@figtracer) 👋
 
-I'm a self-taught builder and aspiring auditor from Portugal. I’m passionate about **systems programming**, **blockchain development**, and **decentralization**. I enjoy diving into system internals, crafting tools, and contributing to open-source and blockchain ecosystems.
+I'm a builder and aspiring auditor from Portugal. I’m passionate about **system internals**, **web3**, and **music**.
 
 ## Blog  
-I write about blockchain, systems programming, and my learning journey on my [website](https://figtracer.com). 
+I write about my learning journey on my [website](https://figtracer.com). 
 
 
 ## Experience
 
-- **Hacker, ETHGlobal Prague, 2025** -- Won blockscout + 1inch prizes
+- **Hacker, ETHGlobal Prague, 2025** -> Won blockscout + 1inch prizes
 - **Volunteer, ETHPrague Conf, 2025**
 - **Crew Member, NDC Porto, 2024**  
 - **Co-Organizer, Polygon Porto, 2023**  
