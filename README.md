@@ -16,7 +16,6 @@ I write about my learning journey on my [website](https://figtracer.com).
 
 ## Get in Touch
 
-- **[LinkedIn](https://www.linkedin.com/in/figtracer)**  
 - **[Email](mailto:gustavo@figtracer.com)**  
 - **[Website](https://figtracer.com)**  
 - **[GitHub](https://github.com/figtracer)**  
