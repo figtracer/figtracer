@@ -8,7 +8,7 @@ I write about my learning journey on my [website](https://figtracer.com).
 
 ## Experience
 
-- **Hacker, ETHGlobal Prague, 2025** -> Won blockscout + 1inch prizes
+- **Hacker, ETHGlobal Prague, 2025**
 - **Volunteer, ETHPrague Conf, 2025**
 - **Crew Member, NDC Porto, 2024**  
 - **Co-Organizer, Polygon Porto, 2023**  
