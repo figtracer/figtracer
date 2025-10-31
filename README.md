@@ -1,12 +1,12 @@
-# Hey! I'm Gustavo (@figtracer) 👋
+# hey! i'm Gustavo (@figtracer) 👋
 
-I'm a builder and aspiring auditor from Portugal. I’m passionate about **system internals**, **web3**, and **music**.
+i'm passionate about **system internals**, **web3**, and **music**.
 
-## Blog  
-I write about my learning journey on my [website](https://figtracer.com). 
+## blog  
+my learning journey: [website](https://figtracer.com). 
 
 
-## Experience
+## experience
 
 - **Hacker, ETHGlobal Prague, 2025**
 - **Volunteer, ETHPrague Conf, 2025**
@@ -17,5 +17,3 @@ I write about my learning journey on my [website](https://figtracer.com).
 ## Get in Touch
 
 - **[Email](mailto:gustavo@figtracer.com)**  
-- **[Website](https://figtracer.com)**  
-- **[GitHub](https://github.com/figtracer)**  
