@@ -12,8 +12,3 @@ my learning journey: [website](https://figtracer.com).
 - **Volunteer, ETHPrague Conf, 2025**
 - **Crew Member, NDC Porto, 2024**  
 - **Co-Organizer, Polygon Porto, 2023**  
-
-
-## Get in Touch
-
-- **[Email](mailto:gustavo@figtracer.com)**  
