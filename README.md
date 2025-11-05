@@ -1,6 +1,6 @@
 # hey! i'm fig (@figtracer) 👋
 
-i'm passionate about **system internals**, **web3**, and **music**.
+i'm passionate about **systems**, **privacy** and **music**.
 
 ## blog  
 my learning journey: [website](https://figtracer.com). 
